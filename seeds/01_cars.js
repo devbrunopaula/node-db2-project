@@ -1,4 +1,3 @@
-// const makeFakeCars = require('./carFaker')
 const faker = require('faker')
 
 const makeFakeCars = () => ({
